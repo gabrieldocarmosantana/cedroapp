@@ -1,0 +1,5 @@
+C:\Projects\GPA-Default\Cedro\Cedro.App\Cedro.Domain\bin\Debug\Cedro.Domain.dll
+C:\Projects\GPA-Default\Cedro\Cedro.App\Cedro.Domain\bin\Debug\Cedro.Domain.pdb
+C:\Projects\GPA-Default\Cedro\Cedro.App\Cedro.Domain\obj\Debug\Cedro.Domain.csprojResolveAssemblyReference.cache
+C:\Projects\GPA-Default\Cedro\Cedro.App\Cedro.Domain\obj\Debug\Cedro.Domain.dll
+C:\Projects\GPA-Default\Cedro\Cedro.App\Cedro.Domain\obj\Debug\Cedro.Domain.pdb

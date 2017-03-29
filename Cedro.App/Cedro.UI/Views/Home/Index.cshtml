@@ -1,0 +1,58 @@
+﻿@{
+    Layout = "";
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cedro - My ASP.NET Application</title>
+    <link href="/Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="/Content/Site.css" rel="stylesheet" />
+    <link href="/Content/ui-grid.css" rel="stylesheet" />
+    <link href="/Content/loading-bar.css" rel="stylesheet" />
+</head>
+<body ng-app="app">
+
+    <!--Compontente de Menu- MenuDirective-->
+    <div class="navbar navbar-inverse navbar-fixed-top" ng-controller="MenuController">
+        <menu-header itens="itensMenu"></menu-header>
+    </div>
+
+
+    <div class="container body-content">
+
+
+
+        <ng-view></ng-view>
+
+        <hr />
+        <footer>
+            <p>&copy; Cedro</p>
+        </footer>
+    </div>
+    
+    <script src="/Scripts/angular.min.js"></script>
+    <script src="/Scripts/angular-route.min.js"></script>
+    <script src="/Scripts/angular-resource.min.js"></script>
+    <script src="/Scripts/ui-grid.js"></script>
+    <script src="/app/controllers/main.js"></script>
+    <script src="/Scripts/angular-ui/ui-bootstrap-tpls.js"></script>
+<script src="/Scripts/i18n/angular-locale_pt-br.js"></script>
+        <script src="/Scripts/loading-bar.js"></script>
+    <script src="/app/config/config.js"></script>
+    <script src="/app/services/modelsService.js"></script>
+    <script src="/app/controllers/menuController.js"></script>
+    <script src="/app/directives/menuDirectives.js"></script>
+    <script src="/app/controllers/homeController.js"></script>
+    <script src="/app/controllers/restaurantController.js"></script>
+    <script src="/app/directives/restaurantDirective.js"></script>
+    <script src="/app/controllers/dishController.js"></script>
+    <script src="/app/directives/dishDirective.js"></script>
+    <script src="/app/resources/restaurantResource.js"></script>
+    <script src="/app/services/restaurantService.js"></script>
+    <script src="/app/resources/dishResource.js"></script>
+
+</body>
+</html>
+

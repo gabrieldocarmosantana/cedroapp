@@ -1,0 +1,21 @@
+﻿<div>
+    <fieldset class="scheduler-border">
+        <legend class="scheduler-border">Filtros</legend>
+        <div class="control-group">
+
+            <div class="form-group">
+                <label>Restaurante:</label>
+                <!--<select type="text" class="form-control" ng-model="dModel.restaurantId" ng-change="refreshData()" ng-model="rName"></select>-->
+
+                <select class="form-control"  ng-model="dModel.restaurantId" ng-options="i.Id as i.Name for i in restaurants"></select>
+
+                <label ng-show="dModel.restaurantId">Nome:</label>
+                <input type="text" class="form-control" ng-model="dModel.name" ng-show="dModel.restaurantId" >
+
+                <label  ng-show="dModel.restaurantId && dModel.name" >Price:</label>
+                <input type="text" class="form-control" ng-model="dModel.price" ng-change="refreshData()" ng-show="dModel.restaurantId && dModel.name" >
+            </div>
+            <button class="btn btn-success" ng-click="save()" ng-show="dModel.restaurantId && dModel.name && dModel.price">Cadastrar</button>
+        </div>
+    </fieldset>
+</div>

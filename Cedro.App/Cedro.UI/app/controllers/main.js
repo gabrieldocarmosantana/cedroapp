@@ -1,0 +1,2 @@
+﻿angular.module('app', ['ui.bootstrap', 'ui.grid', 'ngRoute', 'modelServices', 'menuDirectives', 'restaurantsDirectives', 'dishDirectives', 'restaurantResources', 'dishResources','angular-loading-bar']);
+  

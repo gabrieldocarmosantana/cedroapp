@@ -1,0 +1,15 @@
+C:\Projects\GPA-Default\Cedro\Cedro.App\Cedro.Infra.CrossCuting\bin\Debug\Cedro.Infra.CrossCuting.dll
+C:\Projects\GPA-Default\Cedro\Cedro.App\Cedro.Infra.CrossCuting\bin\Debug\Cedro.Infra.CrossCuting.pdb
+C:\Projects\GPA-Default\Cedro\Cedro.App\Cedro.Infra.CrossCuting\obj\Debug\Cedro.Infra.CrossCuting.csprojResolveAssemblyReference.cache
+C:\Projects\GPA-Default\Cedro\Cedro.App\Cedro.Infra.CrossCuting\obj\Debug\Cedro.Infra.CrossCuting.dll
+C:\Projects\GPA-Default\Cedro\Cedro.App\Cedro.Infra.CrossCuting\obj\Debug\Cedro.Infra.CrossCuting.pdb
+C:\Projects\GPA-Default\Cedro\Cedro.App\Cedro.Infra.CrossCuting\bin\Debug\Cedro.Application.dll
+C:\Projects\GPA-Default\Cedro\Cedro.App\Cedro.Infra.CrossCuting\bin\Debug\Cedro.Domain.dll
+C:\Projects\GPA-Default\Cedro\Cedro.App\Cedro.Infra.CrossCuting\bin\Debug\Cedro.Infra.Data.dll
+C:\Projects\GPA-Default\Cedro\Cedro.App\Cedro.Infra.CrossCuting\bin\Debug\SimpleInjector.dll
+C:\Projects\GPA-Default\Cedro\Cedro.App\Cedro.Infra.CrossCuting\bin\Debug\EntityFramework.dll
+C:\Projects\GPA-Default\Cedro\Cedro.App\Cedro.Infra.CrossCuting\bin\Debug\Cedro.Application.pdb
+C:\Projects\GPA-Default\Cedro\Cedro.App\Cedro.Infra.CrossCuting\bin\Debug\Cedro.Domain.pdb
+C:\Projects\GPA-Default\Cedro\Cedro.App\Cedro.Infra.CrossCuting\bin\Debug\Cedro.Infra.Data.pdb
+C:\Projects\GPA-Default\Cedro\Cedro.App\Cedro.Infra.CrossCuting\bin\Debug\SimpleInjector.xml
+C:\Projects\GPA-Default\Cedro\Cedro.App\Cedro.Infra.CrossCuting\bin\Debug\EntityFramework.xml

@@ -1,0 +1,13 @@
+﻿<div>
+    <fieldset class="scheduler-border">
+        <legend class="scheduler-border">Filtros</legend>
+        <div class="control-group">
+
+            <div class="form-group">
+                <label>Nome:</label>
+                <input type="text" class="form-control" ng-model="rModel.name" ng-change="refreshData()">
+            </div>
+            <button class="btn btn-success" ng-show="rModel.name" ng-click="save()">Cadastrar</button>
+        </div>
+    </fieldset>
+</div>
